@@ -17,7 +17,7 @@ def factorial_with_steps(n):
 
 
 while True:
-    print("\n=== Factorial Calculator (With Steps) ===")
+    print("\nFactorial Calculator")
     
     user_input = input("Enter a number (or type 'exit' to quit): ")
 
