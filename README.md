@@ -1,35 +1,3 @@
-FACTORIAL
-WORKFLOW
-1.	Start
-2.	Input number n
-3.	Check if n < 0
-If yes → print error (factorial not defined) → End
-4.	Set result = 1
-5.	Loop from 1 to n
-6.	Display 
-7.	End
-
-PSEUDO CODE
-BEGIN
-	INPUT n
-
-	IF n < O THEN
-		PRINT “Factorial not defined for negative numbers”
-	ELSE
-		SET result = 1
-
-		FOR i = 1 TO n DO
-			result = result * 1
-		END FOR
-
-PRINT result
-END IF
-
-END
-
-
-
-
 
 
 PYTHON CODE
